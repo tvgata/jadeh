@@ -199,6 +199,22 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298558
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" group-title="3. OLAHRAGA", Tennis Channel
 #https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
+----FOX SPORTS 1----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="3. OLAHRAGA", FOX SPORTS 1
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+
+----FOX SPORTS 2----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="3. OLAHRAGA", FOX SPORTS 2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+----FOX SPORTS 3----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="3. OLAHRAGA", FOX SPORTS 3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+
+
+
+
 
 
 ########### 4. SEPAK BOLA ##############
@@ -221,31 +237,31 @@ http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69854
 
 ----Now Premier Sports 2----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 2
-http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69855
+##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69855
 
 ----Now Premier Sports 3----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 3
-http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69856
+##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69856
 
 ----Now Premier Sports 4----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 4
-http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69857
+##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69857
 
 ----Now Premier Sports 5----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 5
-http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69858
+##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69858
 
 ----Now Premier Sports 6----  
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 6
-http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69859
+##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69859
 
 ----Now Premier Sports 7----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 7
-http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69860
+##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69860
 
 ----Now Premier Sports 8----
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 8
-http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69861
+##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69861
 
 
 
