@@ -243,7 +243,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856b6088c3016b87d55f4
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 ----Canal Motor----
-#EXTINF:-1 tvg-logo="" group-title="3. OLAHRAGA", Canal Motor
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6vsp8QswZlEhlG5xE8itPPF_kg0451lbOUXDyVVQqWe0m9z74FoZ9E5BnmmGGGiKEFYs=w240-h480-rw" group-title="3. OLAHRAGA", Canal Motor
 https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 ##http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 
@@ -326,12 +326,8 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157557
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558
 
 ----Eurosport 1----
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eurosport 1
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/eurosport-20018632.logowik.com.webp" group-title="4. SEPAK BOLA", Eurosport 1
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/60766.ts
-
-----Eurosport 1----
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eurosport 1
-##https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.1.ro.m3u8
 
 ----Eurosport 2----
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eurosport 2
@@ -432,7 +428,7 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298528
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298529
 
 ----Bioskop Indonesia----
-#EXTINF:-1 group-title="5. FILM", Bioskop Indonesia
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="5. FILM", Bioskop Indonesia
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264801
 
 ----TVN----
@@ -444,31 +440,31 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197965
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157596
 
 ----HBO----
-#EXTINF:-1 group-title="5. FILM", HBO
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/hbo-home-box-office9772.jpg" group-title="5. FILM", HBO
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197972
 
 ----HBO Family----
-#EXTINF:-1 group-title="5. FILM", HBO Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="5. FILM", HBO Family
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197055
 
 ----HBO Hits----
-#EXTINF:-1 group-title="5. FILM", HBO Hits
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBV8EcYwRYQaVXIBoqInQAYRIj_DgfboUswMLC_GoYgpf9uep5mcSDSGagw7Fl0qZgoQA&usqp=CAU" group-title="5. FILM", HBO Hits
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196480
 
 ----HBO Signature----
-#EXTINF:-1 group-title="5. FILM", HBO Signature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="5. FILM", HBO Signature
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/221948
 
 ----FLIK----
-#EXTINF:-1 group-title="5. FILM", FLIK
+#EXTINF:-1 tvg-logo="" group-title="5. FILM", FLIK
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165095
 
 ----FMN----
-#EXTINF:-1 group-title="5. FILM", FMN
+#EXTINF:-1 tvg-logo="" group-title="5. FILM", FMN
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165057
 
 ----Fox Crime----
-#EXTINF:-1 group-title="5. FILM", Fox Crime
+#EXTINF:-1 tvg-logo="" group-title="5. FILM", Fox Crime
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165076
 
 ---- Galaxy----
