@@ -1,0 +1,613 @@
+#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" 
+
+
+refresh="3600"
+
+------------------------------------
+            1. INDONESIA 
+------------------------------------
+
+----RCTI----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", RCTI
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157591
+
+----GTV----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png", GTV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157578
+
+----MNCTV----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png", MNC TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165054
+
+----iNews----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png", INews
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157579
+
+----ANTV----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165072
+
+----Trans TV----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png", Trans TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162503
+
+----Trans 7----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png", Trans 7
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162502
+
+----NET----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg", Net
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/80292
+
+----SCTV----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png", SCTV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162141
+
+----Indosiar----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png", Indosiar
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162138
+
+----TVOne----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png", TV One
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/296214
+
+----Metro TV----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png", Metro TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165059
+
+----Kompas TV----
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png", Kompas TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165060
+
+----Rajawali TV----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_114.png" group-title="1. INDONESIA", Rajawali TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196457
+
+----JTV----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="1. INDONESIA", JTV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165091
+
+----Mentari TV----
+#EXTINF:-1 group-title="1. INDONESIA", Mentari TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298546
+
+----Moji----
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLjKzrFb/moji.png" group-title="1. INDONESIA", Moji
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298550
+
+----TVRI----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="1. INDONESIA", TVRI
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162504
+
+----Nusantara TV----
+#EXTINF:-1 group-title="1. INDONESIA", Nusantara TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166410
+
+----OK TV----
+#EXTINF:-1 group-title="1. INDONESIA", OK TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/221956
+
+----Garuda TV----
+#EXTINF:0 tvg-logo="https://i.ibb.co/XsZhqDD/image.png" group-title="1. INDONESIA",Garuda TV
+https://stream.garuda.tv/live/garudatv/live.m3u8
+
+
+
+------------------------------------
+             2. BERITA 
+------------------------------------
+
+----CNBC Indonesia----
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4b82c758dc/2ab30598ad294ca7b817b9ed1202c11f.jpg" group-title="2. BERITA", CNBC Indonesia
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165062
+
+----CNN Indonesia----
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4997e958db/e02f3053b96f4349ad8402d7b181d273.jpg" group-title="2. BERITA", CNN Indonesia
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162137
+
+----Berita Satu----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="2. BERITA", Berita Satu
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162513
+
+----Berita Satu news----
+#EXTINF:-1 group-title="2. BERITA", Berita Satu news
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/287421
+
+----Berita Satu World----
+#EXTINF:-1 group-title="2. BERITA", Berita Satu World
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162136
+
+----Jakarta Globe News----
+#EXTINF:-1 group-title="2. BERITA", Jakarta Globe News
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166399
+
+----MNC News----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png" group-title="2. BERITA", MNC News
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165058
+
+
+
+
+########### 3. OLAHRAGA ##############
+
+----Champions TV 1----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="3. OLAHRAGA",Champions TV 1
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298512
+
+----Champions TV 2----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aYtK6vP.png" group-title="3. OLAHRAGA",Champions TV 2
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298513
+
+----Champions TV 3----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="3. OLAHRAGA",Champions TV 3
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298514
+
+----beIN Sports 1----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="3. OLAHRAGA", beIN Sports 1
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165105
+
+----beIN Sports 3----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg" group-title="3. OLAHRAGA", beIN Sports 3
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298506
+
+----Fight Sport----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="3. OLAHRAGA", Fight Sport
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298531
+
+----MNC Sports----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg" group-title="3. OLAHRAGA", MNC Sports
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157589
+
+----MNC Sports 2----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="3. OLAHRAGA", MNC Sports 2
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298548
+
+----MNC Sports 3----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="3. OLAHRAGA", MNC Sports 3
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298549
+
+----SpoTV----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="3. OLAHRAGA", SpoTV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298570
+
+----SpoTV 2----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="3. OLAHRAGA", SpoTV 2
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298571
+
+----Usee Sport 1----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wzd9tZR.png" group-title="3. OLAHRAGA", Usee Sport 1
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298577
+
+----Usee Sport 2----
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gjOetQG.png" group-title="3. OLAHRAGA", Usee Sport 2
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298578
+
+----Golf----
+#EXTINF:-1 group-title="3. OLAHRAGA", Golf
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298534
+
+----NBA TV----
+#EXTINF:-1 group-title="3. OLAHRAGA", NBA TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298558
+
+----Tennis Channel----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" group-title="3. OLAHRAGA", Tennis Channel
+#https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+
+
+########### 4. SEPAK BOLA ##############
+
+----ABU DHABI SPORT 1----
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+----ABU DHABI SPORT 2----
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+
+----ABU DHABI SPORT 3----
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+
+
+
+
+
+########### 5. FILM ##############
+
+----Celestial Movies----
+#EXTINF:-1 group-title="5. FILM", Celestial Movies
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165065
+
+----Etv Bioskop----
+#EXTINF:-1 group-title="5. FILM", Etv Bioskop
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298526
+
+----Etv Bioskop 02----
+#EXTINF:-1 group-title="5. FILM", Etv Bioskop 02
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298527
+
+----Etv Bioskop 03----
+#EXTINF:-1 group-title="5. FILM", Etv Bioskop 03
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298528
+
+----Etv Bioskop 04----
+#EXTINF:-1 group-title="5. FILM", Etv Bioskop 04
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298529
+
+----Bioskop Indonesia----
+#EXTINF:-1 group-title="5. FILM", Bioskop Indonesia
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264801
+
+----TVN----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png" group-title="5. FILM", TVN
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197965
+
+----TVN Movies----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png" group-title="5. FILM", TVN Movies
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157596
+
+----HBO----
+#EXTINF:-1 group-title="5. FILM", HBO
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197972
+
+----HBO Family----
+#EXTINF:-1 group-title="5. FILM", HBO Family
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197055
+
+----HBO Hits----
+#EXTINF:-1 group-title="5. FILM", HBO Hits
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196480
+
+----HBO Signature----
+#EXTINF:-1 group-title="5. FILM", HBO Signature
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/221948
+
+----FLIK----
+#EXTINF:-1 group-title="5. FILM", FLIK
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165095
+
+----FMN----
+#EXTINF:-1 group-title="5. FILM", FMN
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165057
+
+----Fox Crime----
+#EXTINF:-1 group-title="5. FILM", Fox Crime
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165076
+
+---- Galaxy----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="5. FILM", Galaxy
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264773
+
+----Galaxy Premium----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="5. FILM", Galaxy Premium
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264774
+
+----GEM----
+#EXTINF:-1 group-title="5. FILM", GEM
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298533
+
+----K+----
+#EXTINF:-1 group-title="5. FILM", K+
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197969
+
+----Sony One----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_164.png" group-title="5. FILM", Sony One
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165077
+
+----Zee Bioskop----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png" group-title="5. FILM", Zee Bioskop
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157584
+
+----Thrill----
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="5. FILM", Thrill
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157580
+
+
+
+
+
+########### 6. RELIGI ##############
+
+----Rodja TV----
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JWbm5qy/logo-rodjatv.png" group-title="6. RELIGI", Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8
+
+----TV Mu----
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" group-title="6. RELIGI", TV Mu
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196459
+
+----TV 9 Nusantara----
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="6. RELIGI", TV 9 Nusantara
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162509
+
+----MADINAH TV----
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y4MvZ0M/SSN-TIVI-2-1.png" group-title="6. RELIGI", MADINAH TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+
+
+
+
+
+#EXTINF:-1,ID: 01. ETV Live Event
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298491
+#EXTINF:-1,ID: 02. ETV Live Event 02
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298492
+#EXTINF:-1,ID: 24/7 Angry Birds Toons
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298493
+#EXTINF:-1,ID: 24/7 BabyBus Indonesia
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298494
+#EXTINF:-1,ID: 24/7 Donald Ducks
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298495
+#EXTINF:-1,ID: 24/7 Doraemon
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298496
+#EXTINF:-1,ID: 24/7 Just For Laughs
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298497
+#EXTINF:-1,ID: 24/7 Mr Bean Cartoon
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298498
+#EXTINF:-1,ID: 24/7 Mr. Bean Classic
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298499
+#EXTINF:-1,ID: 24/7 Tom And Jerry
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298500
+#EXTINF:-1,ID: 24/7 Upin Ipin
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298501
+#EXTINF:-1,ID: 24/7 Warkop DKI
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298502
+#EXTINF:-1,ID: ANIMAL PLANET
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157532
+#EXTINF:-1,ID: Animax
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165081
+#EXTINF:-1,ID: AniPlus
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298504
+
+#EXTINF:-1,ID: Arirang
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/247447
+#EXTINF:-1,ID: Asian Food Network
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298503
+#EXTINF:-1,ID: AXN
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165079
+#EXTINF:-1,ID: Baby TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157605
+#EXTINF:-1,ID: Bali TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197962
+#EXTINF:-1,ID: BBC Earth
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165106
+#EXTINF:-1,ID: BBC Lifestyle
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264747
+
+
+#EXTINF:-1,ID: Besmart
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165087
+
+#EXTINF:-1,ID: Bloomberg TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157599
+#EXTINF:-1,ID: Boomerang
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165109
+#EXTINF:-1,ID: Boomerang EN
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298507
+#EXTINF:-1,ID: Cartoon Network
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157593
+#EXTINF:-1,ID: CBeebies
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/247448
+#EXTINF:-1,ID: CCM
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165103
+
+#EXTINF:-1,ID: CGTN
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298510
+#EXTINF:-1,ID: CGTN Documentary
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298511
+
+#EXTINF:-1,ID: Channel News Asia
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157602
+#EXTINF:-1,ID: Chinese Drama
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298516
+#EXTINF:-1,ID: CinemaWorld
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165082
+#EXTINF:-1,ID: Cinemax
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197964
+#EXTINF:-1,ID: Citra Bioskop
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298519
+#EXTINF:-1,ID: Citra Dangdut
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/247446
+#EXTINF:-1,ID: Citra Drama
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264748
+#EXTINF:-1,ID: Citra Entertainment
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298520
+
+#EXTINF:-1,ID: CNN International
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264778
+#EXTINF:-1,ID: Crime+ Investigation
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165052
+#EXTINF:-1,ID: Da Ai TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165061
+#EXTINF:-1,ID: Discovery Asia
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197968
+#EXTINF:-1,ID: Discovery World
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157597
+#EXTINF:-1,ID: Disney Junior
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162511
+#EXTINF:-1,ID: Disney XD
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/276564
+#EXTINF:-1,ID: DreamWorks
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157610
+#EXTINF:-1,ID: Dunia Anak
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264753
+#EXTINF:-1,ID: Dunia Lain
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298524
+#EXTINF:-1,ID: Eat&Go
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264765
+#EXTINF:-1,ID: Ent
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157581
+
+#EXTINF:-1,ID: Fashion TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298530
+
+
+
+
+
+#EXTINF:-1,ID: HGTV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298535
+#EXTINF:-1,ID: Hip Hip Horee!
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298536
+#EXTINF:-1,ID: History
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162519
+#EXTINF:-1,ID: Hits
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165085
+#EXTINF:-1,ID: Hits Movies
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/221947
+#EXTINF:-1,ID: Horee!
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264750
+#EXTINF:-1,ID: Hunan TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/247443
+#EXTINF:-1,ID: I AM Channel
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/287423
+#EXTINF:-1,ID: I Konser
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264760
+#EXTINF:-1,ID: IDX
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157590
+#EXTINF:-1,ID: Ie
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157582
+#EXTINF:-1,ID: IMC
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264769
+#EXTINF:-1,ID: Indi Kids
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298539
+
+
+#EXTINF:-1,ID: Infotainment
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298541
+#EXTINF:-1,ID: Insert
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264766
+#EXTINF:-1,ID: Izzah TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/275984
+#EXTINF:-1,ID: Jak TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157601
+
+
+
+#EXTINF:-1,ID: KBS World
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197053
+#EXTINF:-1,ID: Kids TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162505
+#EXTINF:-1,ID: KIX
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165068
+
+#EXTINF:-1,ID: Life
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157585
+#EXTINF:-1,ID: Lifestyle & Fashion
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157592
+#EXTINF:-1,ID: Lifetime
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298543
+#EXTINF:-1,ID: Love Nature
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264756
+
+
+#EXTINF:-1,ID: Miao Mi
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/266805
+
+
+
+
+#EXTINF:-1,ID: MQTV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298551
+#EXTINF:-1,ID: MTA 2 Asia
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162522
+#EXTINF:-1,ID: MTA 3
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/266815
+#EXTINF:-1,ID: MTA TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298552
+#EXTINF:-1,ID: Music TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165108
+#EXTINF:-1,ID: My Cinema
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298553
+#EXTINF:-1,ID: My Cinema Asia
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298554
+#EXTINF:-1,ID: My Family
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298555
+#EXTINF:-1,ID: My Kidz
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298556
+#EXTINF:-1,ID: Nat Geo
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165094
+#EXTINF:-1,ID: Nat Geo Wild
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197967
+
+
+#EXTINF:-1,ID: NHK World
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298560
+#EXTINF:-1,ID: Nick Jr
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165107
+#EXTINF:-1,ID: Nick Jr EN
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298561
+#EXTINF:-1,ID: nickelodeon
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162510
+
+#EXTINF:-1,ID: ONE
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298563
+#EXTINF:-1,ID: Padang TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162140
+#EXTINF:-1,ID: Paramount Network
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298564
+#EXTINF:-1,ID: Prambors
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264761
+
+#EXTINF:-1,ID: RB TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/266810
+
+#EXTINF:-1,ID: Reformed 21
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/174574
+#EXTINF:-1,ID: Rock Action
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298490
+#EXTINF:-1,ID: Rock Entertaiment
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298565
+#EXTINF:-1,ID: Rock Extreme
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298566
+
+#EXTINF:-1,ID: RRI Net
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/266816
+
+#EXTINF:-1,ID: SEA Today
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298568
+#EXTINF:-1,ID: Smithsonian Channel
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264767
+
+
+#EXTINF:-1,ID: Tech Storm
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298572
+#EXTINF:-1,ID: Tegar TV Lampung
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166411
+
+#EXTINF:-1,ID: TLC
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165086
+
+
+
+
+
+
+
+#EXTINF:-1,ID: TVRI Gorontalo
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166698
+#EXTINF:-1,ID: TVRI Jambi
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166692
+#EXTINF:-1,ID: TVRI Jawa Barat
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166688
+#EXTINF:-1,ID: TVRI Kalimantan Barat
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166701
+#EXTINF:-1,ID: TVRI Sport
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166686
+#EXTINF:-1,ID: TVRI Sulawesi Selatan
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166699
+#EXTINF:-1,ID: U Channel
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162146
+#EXTINF:-1,ID: Usee Prime
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162524
+
+#EXTINF:-1,ID: Vision Prime
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197958
+#EXTINF:-1,ID: Warner TV
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157594
+
+#EXTINF:-1,ID: ZooMoo
+http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264751
