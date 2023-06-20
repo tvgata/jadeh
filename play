@@ -242,7 +242,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856b6088c3016b87d55f4
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="3. OLAHRAGA", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-
+----Canal Motor----
+#EXTINF:-1 tvg-logo="" group-title="3. OLAHRAGA", Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 
 
 
@@ -320,6 +322,33 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157557
 ----Astro Supersport 4----
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213" group-title="4. SEPAK BOLA", Astro Supersport 4
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558
+
+----Eurosport 1----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eurosport 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.1.ro.m3u8
+
+----Eurosport 2----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eurosport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.ro.m3u8
+
+----BEIN SPORTS PREMIUM 1----
+#EXTINF:-1, tvg-logo="" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 1
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32008.ts
+
+----BEIN SPORTS PREMIUM 2----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 2
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32007.ts
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", BT Sport 1 UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bt.sport.1.uk.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", BT Sport 2 UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bt.sport.2.uk.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", BT Sport 3 UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bt.sport.3.uk.m3u8
+
 
 
 
@@ -434,10 +463,10 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196459
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162509
 
 ----MADINAH TV----
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y4MvZ0M/SSN-TIVI-2-1.png" group-title="6. ISLAMI", MADINAH TV
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png" group-title="6. ISLAMI", MADINAH TV
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
-----Madina Live----
+----MTA TV----
 #EXTINF: -1 group-title="7. RELIGION"  tvg-logo="https://hamariweb.com/pakistan-tv-channels/images/ChannelsHome/133.jpg", Madina Live
-#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="6. ISLAMI", Madina Live
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="6. ISLAMI", MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
