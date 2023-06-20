@@ -39,11 +39,11 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 ----NET----
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg", Net
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png", Net
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
 ----SCTV----
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png", SCTV
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png", SCTV
 http://103.152.118.53:80/streams/esceteve_2/index.m3u8
 ##http://103.152.118.53:80/streams/esceteve/index.m3u8
 
@@ -57,7 +57,7 @@ http://103.152.118.53:80/streams/indosiar_2/index.m3u8
 http://210.210.155.37/qwr9ew/s/s105/01.m3u8
 
 ----Metro TV----
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png", Metro TV
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png", Metro TV
 http://103.152.118.53:80/streams/metroteve/index.m3u8
 
 ----Kompas TV----
@@ -65,7 +65,7 @@ http://103.152.118.53:80/streams/metroteve/index.m3u8
 http://103.152.118.53:80/streams/kompasteve/index.m3u8
 
 ----Rajawali TV----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_114.png" group-title="1. INDONESIA", Rajawali TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="1. INDONESIA", Rajawali TV
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196457
 
 ----JTV----
