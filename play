@@ -115,15 +115,15 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162137
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162513
 
 ----Berita Satu news----
-#EXTINF:-1 group-title="2. BERITA", Berita Satu news
+#EXTINF:-1 tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/11-NEWS/Berita%20Satu%20SD-FirstMedia-Chl-1.jpg" group-title="2. BERITA", Berita Satu news
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/287421
 
 ----Berita Satu World----
-#EXTINF:-1 group-title="2. BERITA", Berita Satu World
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3wBsPmSp34BKSo9RXB-1xoPZlp5B81mCTaMQYPwUPI6KO-YHQZBGRgOfb1xepXRlvdFc&usqp=CAU" group-title="2. BERITA", Berita Satu World
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162136
 
 ----Jakarta Globe News----
-#EXTINF:-1 group-title="2. BERITA", Jakarta Globe News
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="2. BERITA", Jakarta Globe News
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166399
 
 ----MNC News----
@@ -464,7 +464,7 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165095
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165057
 
 ----Fox Crime----
-#EXTINF:-1 tvg-logo="" group-title="5. FILM", Fox Crime
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef0e5e0250f0cc3e2bac80acdf3f841d.png" group-title="5. FILM", Fox Crime
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165076
 
 ---- Galaxy----
@@ -476,7 +476,7 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264773
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264774
 
 ----GEM----
-#EXTINF:-1 group-title="5. FILM", GEM
+#EXTINF:-1 tvg-logo="" group-title="5. FILM", GEM
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298533
 
 ----K+----
