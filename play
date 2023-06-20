@@ -275,7 +275,21 @@ http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/273.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT 3
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/271.ts
 
+----Astro Sports 1----
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213" group-title="4. SEPAK BOLA", Astro Sports 1
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/146068.ts
 
+----Astro Sports 2----
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213" group-title="4. SEPAK BOLA", Astro Sports 2
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157556.ts
+
+----Astro Sports 3----
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213" group-title="4. SEPAK BOLA", Astro Sports 3
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157557.ts
+
+----Astro Sports 4----
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213" group-title="4. SEPAK BOLA", Astro Sports 4
+http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558.ts
 
 
 
