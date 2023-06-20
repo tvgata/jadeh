@@ -41,11 +41,13 @@ http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
 ----SCTV----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png", SCTV
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+http://103.152.118.53:80/streams/esceteve_2/index.m3u8
+##http://103.152.118.53:80/streams/esceteve/index.m3u8
 
 ----Indosiar----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png", Indosiar
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+http://103.152.118.53:80/streams/indosiar_2/index.m3u8
+##http://103.152.118.53:80/streams/indosiar/index.m3u8
 
 ----TVOne----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png", TV One
@@ -53,11 +55,11 @@ http://210.210.155.37/qwr9ew/s/s105/01.m3u8
 
 ----Metro TV----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png", Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+http://103.152.118.53:80/streams/metroteve/index.m3u8
 
 ----Kompas TV----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png", Kompas TV
-https://ythls.onrender.com/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
+http://103.152.118.53:80/streams/kompasteve/index.m3u8
 
 ----Rajawali TV----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_114.png" group-title="1. INDONESIA", Rajawali TV
@@ -68,12 +70,12 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196457
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165091
 
 ----Mentari TV----
-#EXTINF:-1 group-title="1. INDONESIA", Mentari TV
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298546
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="1. INDONESIA", Mentari TV
+http://103.152.118.53:80/streams/mentariteve/index.m3u8
 
 ----Moji----
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cLjKzrFb/moji.png" group-title="1. INDONESIA", Moji
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298550
+http://103.152.118.53:80/streams/moji/index.m3u8
 
 ----TVRI----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="1. INDONESIA", TVRI
