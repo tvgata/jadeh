@@ -444,7 +444,7 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157596
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197972
 
 ----HBO Family----
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="5. FILM", HBO Family
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png" group-title="5. FILM", HBO Family
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197055
 
 ----HBO Hits----
@@ -452,7 +452,7 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197055
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196480
 
 ----HBO Signature----
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="5. FILM", HBO Signature
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="5. FILM", HBO Signature
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/221948
 
 ----FLIK----
@@ -480,7 +480,7 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/264774
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298533
 
 ----K+----
-#EXTINF:-1 group-title="5. FILM", K+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QYR53ti.png" group-title="5. FILM", K+
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/197969
 
 ----Sony One----
