@@ -25,15 +25,15 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157579
 
 ----ANTV----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165072
+http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
 
 ----Trans TV----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png", Trans TV
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162503
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 ----Trans 7----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png", Trans 7
-http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162502
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 ----NET----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg", Net
