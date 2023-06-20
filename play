@@ -325,8 +325,8 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157557
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213" group-title="4. SEPAK BOLA", Astro Supersport 4
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558
 
-----Eurosport----
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eurosport
+----Eurosport 1----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eurosport 1
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/60766.ts
 
 ----Eurosport 1----
@@ -365,15 +365,15 @@ http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32007.ts
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", TyC Sports US
 
 ----beIN Sports 1----
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 1
+#EXTINF:-1 tvg-logo="https://epg.beinsports.com/id_sports/BS1.svg" group-title="4. SEPAK BOLA", beIN Sports 1
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15204.ts
 
 ----beIN Sports 2----
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 2
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-25584.logowik.com.webp" group-title="4. SEPAK BOLA", beIN Sports 2
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15203.ts
 
 ----beIN Sports 3----
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 3
+#EXTINF:-1 tvg-logo="https://epg.beinsports.com/id_sports/BS3.svg" group-title="4. SEPAK BOLA", beIN Sports 3
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/83080.ts
 
 
