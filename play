@@ -310,21 +310,21 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157580
 
 
 
-########### 6. RELIGI ##############
+########### 6. ISLAMI ##############
 
 ----Rodja TV----
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JWbm5qy/logo-rodjatv.png" group-title="6. RELIGI", Rodja TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JWbm5qy/logo-rodjatv.png" group-title="6. ISLAMI", Rodja TV
 https://rodjatv.com/rodjatv/live.m3u8
 
 ----TV Mu----
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" group-title="6. RELIGI", TV Mu
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" group-title="6. ISLAMI", TV Mu
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196459
 
 ----TV 9 Nusantara----
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="6. RELIGI", TV 9 Nusantara
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="6. ISLAMI", TV 9 Nusantara
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162509
 
 ----MADINAH TV----
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y4MvZ0M/SSN-TIVI-2-1.png" group-title="6. RELIGI", MADINAH TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y4MvZ0M/SSN-TIVI-2-1.png" group-title="6. ISLAMI", MADINAH TV
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
