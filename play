@@ -325,29 +325,79 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558
 
 ----Eurosport 1----
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eurosport 1
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.1.ro.m3u8
+##https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.1.ro.m3u8
 
 ----Eurosport 2----
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eurosport 2
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.ro.m3u8
+##https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.ro.m3u8
 
-----BEIN SPORTS PREMIUM 1----
-#EXTINF:-1, tvg-logo="" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 1
+----BEIN SPORTS PREMIUM 1 AR----
+#EXTINF:-1, tvg-logo="" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 1 AR
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32008.ts
 
-----BEIN SPORTS PREMIUM 2----
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 2
+----BEIN SPORTS PREMIUM 2 AR----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 2 AR
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32007.ts
 
+----CANAL+ Sport----
+#EXTINF:-1,CANAL+ Sport
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.sport.pl.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", BT Sport 1 UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bt.sport.1.uk.m3u8
+----CANAL+ Sport 2----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", CANAL+ Sport 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.sport.2.pl.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", BT Sport 2 UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bt.sport.2.uk.m3u8
+---Eleven Sports 1----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eleven Sports 1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.1.pl.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", BT Sport 3 UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bt.sport.3.uk.m3u8
+----Eleven Sports 2----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", Eleven Sports 2
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.2.pl.m3u8
+
+----TyC Sports----
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", TyC Sports US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tyc.sports.us.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 1 AU
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.1.au.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 1 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.1.us.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 2 AU
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.2.au.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 3 AU
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nsw.sydney.bein.sports.3.au.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 4 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.4.us.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 5 US
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.5.us.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 6 US [!]
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.6.us.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 7 US [!]
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.7.us.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports 8 US [!]
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.8.us.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", beIN Sports Liga US [!]
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.liga.us.m3u8
 
 
 
