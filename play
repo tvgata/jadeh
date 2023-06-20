@@ -147,6 +147,10 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298513
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="3. OLAHRAGA",Champions TV 3
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298514
 
+----TVRI Sports----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="3. OLAHRAGA",TVRI_SPORTS
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
 ----beIN Sports 1----
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="3. OLAHRAGA", beIN Sports 1
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165105
@@ -198,7 +202,7 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298578
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298534
 
 ----NBA TV----
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:NBA_TV.svg" group-title="3. OLAHRAGA", NBA TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="3. OLAHRAGA", NBA TV
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298558
 
 ----Tennis Channel----
@@ -224,6 +228,21 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857fe540a1018060b2307
 ----MOTORVISION TV----
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/70517bbb44cfd85432253e855bec7bb9.png" group-title="3. OLAHRAGA", MOTORVISION TV
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
+
+----Horizon Sports----
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5ea03c5313e9/7a84b24e750f43d49799c533c6b9c709.png" group-title="3. OLAHRAGA",Horizon Sports
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
+
+----REDBULL TV----
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="3. OLAHRAGA", RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+
 
 
 
@@ -418,3 +437,7 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162509
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y4MvZ0M/SSN-TIVI-2-1.png" group-title="6. ISLAMI", MADINAH TV
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
+----Madina Live----
+#EXTINF: -1 group-title="7. RELIGION"  tvg-logo="https://hamariweb.com/pakistan-tv-channels/images/ChannelsHome/133.jpg", Madina Live
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="6. ISLAMI", Madina Live
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
