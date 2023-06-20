@@ -85,11 +85,11 @@ http://103.152.118.53:80/streams/moji/index.m3u8
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/162504
 
 ----Nusantara TV----
-#EXTINF:-1 group-title="1. INDONESIA", Nusantara TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png" group-title="1. INDONESIA", Nusantara TV
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/166410
 
 ----OK TV----
-#EXTINF:-1 group-title="1. INDONESIA", OK TV
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="1. INDONESIA", OK TV
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/221956
 
 ----Garuda TV----
