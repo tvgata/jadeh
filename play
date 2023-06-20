@@ -171,6 +171,12 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298548
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="3. OLAHRAGA", MNC Sports 3
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298549
 
+----Soccer Channel----
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="3. OLAHRAGA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png", Soccer Channel
+https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
 ----SpoTV----
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="3. OLAHRAGA", SpoTV
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298570
@@ -211,8 +217,13 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2bjPO01zTLjgtAouG72ezrqsZtoL5VT8eQ&usqp=CAU" group-title="3. OLAHRAGA", FOX SPORTS 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
+----SPEED TV----
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060b2307340bd/086909c32b7a426eae75792a891c9d8f.jpg" group-title="3. OLAHRAGA", SPEED TV
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.m3u8
 
-
+----MOTORVISION TV----
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/70517bbb44cfd85432253e855bec7bb9.png" group-title="3. OLAHRAGA", MOTORVISION TV
+http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 
 
 
