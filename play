@@ -263,7 +263,17 @@ http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69854
 #EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 8
 ##http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69861
 
+----BT SPORT----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/270.ts
 
+----BT SPORT 2----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT 2 
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/273.ts
+
+----BT SPORT 3----
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZEbw0kDByO0Axyz1FPVGkXpCmbu2yuXgJ2A&usqp=CAU" group-title="4. SEPAK BOLA", BT SPORT 3
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/271.ts
 
 
 
