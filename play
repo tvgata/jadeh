@@ -204,16 +204,52 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298558
 ########### 4. SEPAK BOLA ##############
 
 ----ABU DHABI SPORT 1----
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 1
+#EXTINF:-1 tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
 ----ABU DHABI SPORT 2----
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 2
+#EXTINF:-1 tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
 ----ABU DHABI SPORT 3----
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 3
+#EXTINF:-1 tvg-logo="https://www.klma.org/wp-content/uploads/2019/06/adsports.png" group-title="4. SEPAK BOLA", ABU DHABI SPORT 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+
+----Now Premier Sports 1----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 1
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69854
+
+----Now Premier Sports 2----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 2
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69855
+
+----Now Premier Sports 3----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 3
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69856
+
+----Now Premier Sports 4----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 4
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69857
+
+----Now Premier Sports 5----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 5
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69858
+
+----Now Premier Sports 6----  
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 6
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69859
+
+----Now Premier Sports 7----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 7
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69860
+
+----Now Premier Sports 8----
+#EXTINF:-1 tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="4. SEPAK BOLA", Now Premier Sports 8
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/69861
+
+
+
+
 
 
 
