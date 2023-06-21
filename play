@@ -12,7 +12,7 @@ refresh="3600"
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", RCTI 2
-http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
 ----GTV----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png", GTV
@@ -95,6 +95,12 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/221956
 ----Garuda TV----
 #EXTINF:0 tvg-logo="https://i.ibb.co/XsZhqDD/image.png" group-title="1. INDONESIA",Garuda TV
 https://stream.garuda.tv/live/garudatv/live.m3u8
+
+----DAAI TV----
+#EXTINF:-1 tvg-logo="" group-title="1. INDONESIA", DAAI TV
+https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+
 
 
 
@@ -246,6 +252,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6vsp8QswZlEhlG5xE8itPPF_kg0451lbOUXDyVVQqWe0m9z74FoZ9E5BnmmGGGiKEFYs=w240-h480-rw" group-title="3. OLAHRAGA", Canal Motor
 https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 ##http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
+
+----Historycal Sports----
+#EXTINF:-1 tvg-logo="" group-title="3. OLAHRAGA", Historycal Sports
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68578b331d80178b5acf1fd0a55/manifest.mpd
+
 
 
 
@@ -495,6 +506,13 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157584
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="5. FILM", Thrill
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157580
 
+----KIX----
+#EXTINF:-1 tvg-logo="" group-title="5. FILM", KIX
+https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+----AXN----
+#EXTINF:-1 tvg-logo="" group-title="5. FILM", AXN
+https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 
 
@@ -537,3 +555,33 @@ https://h1.intechmedia.net/intech/ch23.m3u8
 ----Hijrah TV----
 #EXTINF:-1 tvg-logo="" group-title="6. ISLAMI", Hijrah TV
 https://h1.intechmedia.net/intech/ch8.m3u8
+
+
+
+
+
+########### 7. PENGETAHUAN ##############
+
+----Nat Geo Wild----
+#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Nat Geo Wild
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+----Discovery Asia HD----
+#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Discovery Asia HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch302)/index.m3u8
+
+----National Geographic----
+#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", National Geographic
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+----Discovery Channel HD----
+#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Discovery Channel HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
+
+----Animal Planet----
+#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Animal Planet
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
+
+----BBC Earth----
+#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", BBC Earth
+https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
