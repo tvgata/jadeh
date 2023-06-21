@@ -255,7 +255,7 @@ https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 
 ----Historycal Sports----
 #EXTINF:-1 tvg-logo="" group-title="3. OLAHRAGA", Historycal Sports
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68578b331d80178b5acf1fd0a55/manifest.mpd
+##https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68578b331d80178b5acf1fd0a55/manifest.mpd
 
 
 
@@ -564,7 +564,7 @@ https://h1.intechmedia.net/intech/ch8.m3u8
 
 ----Nat Geo Wild----
 #EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Nat Geo Wild
-https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+##https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 ----Discovery Asia HD----
 #EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", Discovery Asia HD
@@ -583,5 +583,5 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
 
 ----BBC Earth----
-#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN", BBC Earth
+#EXTINF:-1 tvg-logo="" group-title="7. PENGETAHUAN" tvg-id="BBCEarthAsia.uk" tvg-name="BBC Earth", BBC Earth
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
