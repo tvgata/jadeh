@@ -118,6 +118,11 @@ https://stream.garuda.tv/live/garudatv/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="1. INDONESIA", DAAI TV
 https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="1. INDONESIA", DAAI TV (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=daaiteve
+http://103.152.118.53:80/streams/daaiteve/index.m3u8
+
 
 
 
