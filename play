@@ -9,7 +9,7 @@
 #EXTINF:-1 tvg-id="rcti.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", RCTI
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
-#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", RCTI 2
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png", RCTI (*)
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
 
