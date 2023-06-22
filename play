@@ -24,9 +24,16 @@ http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 #EXTINF:-1 tvg-id="inews.id" group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png", INews
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
+
 ----ANTV----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png", ANTV (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=anteve
+http://103.152.118.53:80/streams/visyen/dash/ANTV/master.mpd
+
 
 ----Trans TV----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png", Trans TV
@@ -50,9 +57,16 @@ http://103.152.118.53:80/streams/esceteve_2/index.m3u8
 http://103.152.118.53:80/streams/indosiar_2/index.m3u8
 ##http://103.152.118.53:80/streams/indosiar/index.m3u8
 
+
 ----TVOne----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586678066-.png", TV One
 http://210.210.155.37/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586678066-.png", TV One (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=tiviwan
+http://103.152.118.53:80/streams/visyen/dash/TVOne-2/master.mpd
+
 
 ----Metro TV----
 #EXTINF:-1 group-title="1. INDONESIA" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png", Metro TV
@@ -65,6 +79,12 @@ http://103.152.118.53:80/streams/kompasteve/index.m3u8
 ----Rajawali TV----
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="1. INDONESIA", Rajawali TV
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/196457
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="1. INDONESIA", Rajawali TV (*)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://103.152.118.53:80/api/lisensi_deerem/clearkey.php?name=rajawaliteve
+http://103.152.118.53:80/streams/visyen/dash/RTV/master.mpd
+
 
 ----JTV----
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="1. INDONESIA", JTV
