@@ -343,11 +343,11 @@ http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/60766.ts
 ##https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eurosport.2.ro.m3u8
 
 ----BEIN SPORTS PREMIUM 1 AR----
-#EXTINF:-1, tvg-logo="https://picon.ml/bein-sports-1-pr.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 1 AR
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS%20PREMIUM1.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 1 AR
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32008.ts
 
 ----BEIN SPORTS PREMIUM 2 AR----
-#EXTINF:-1 tvg-logo="https://picon.ml/bein-sports-2-pr.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 2 AR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS%20PREMIUM2.png" group-title="4. SEPAK BOLA", BEIN SPORTS PREMIUM 2 AR
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32007.ts
 
 ----CANAL+ Sport----
