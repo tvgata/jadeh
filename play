@@ -190,7 +190,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298570
 
 ----SpoTV 2----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="3. OLAHRAGA", SpoTV 2
+#EXTINF:-1 tvg-id="spotv2.kr" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="3. OLAHRAGA", SpoTV 2
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298571
 
 ----Usee Sport 1----
