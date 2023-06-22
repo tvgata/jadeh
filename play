@@ -160,7 +160,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/165105
 
 ----beIN Sports 3----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg" group-title="3. OLAHRAGA", beIN Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS3.png" group-title="3. OLAHRAGA", beIN Sports 3
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298506
 
 ----Fight Sport----
@@ -370,15 +370,15 @@ http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/32007.ts
 #EXTINF:-1 tvg-logo="" group-title="4. SEPAK BOLA", TyC Sports US
 
 ----beIN Sports 1----
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp" group-title="4. SEPAK BOLA", beIN Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS1.png" group-title="4. SEPAK BOLA", beIN Sports 1
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15204.ts
 
 ----beIN Sports 2----
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-25584.logowik.com.webp" group-title="4. SEPAK BOLA", beIN Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS2.png" group-title="4. SEPAK BOLA", beIN Sports 2
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/15203.ts
 
 ----beIN Sports 3----
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bein-sports-31536.logowik.com.webp" group-title="4. SEPAK BOLA", beIN Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/beIN%20SPORTS3.png" group-title="4. SEPAK BOLA", beIN Sports 3
 http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/83080.ts
 
 
