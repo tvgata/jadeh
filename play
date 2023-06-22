@@ -168,15 +168,15 @@ http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298506
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298531
 
 ----MNC Sports----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg" group-title="3. OLAHRAGA", MNC Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/MNC%20Sports.png" group-title="3. OLAHRAGA", MNC Sports
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/157589
 
 ----MNC Sports 2----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="3. OLAHRAGA", MNC Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/MNC%20Sports2.png" group-title="3. OLAHRAGA", MNC Sports 2
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298548
 
 ----MNC Sports 3----
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="3. OLAHRAGA", MNC Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvgata/jadeh/main/Logo/Sports/MNC%20Sports3.png" group-title="3. OLAHRAGA", MNC Sports 3
 http://aflaxtv.xyz:8080/1eae94e3/GpDddDC8ddMxhY2n/298549
 
 ----Soccer Channel----
