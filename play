@@ -695,7 +695,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 -----------------------------
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="VOD 2023",Plane (2023)
-http://you.wendiella.sbs/xxx/plane-2023/4/480.m3u8
+https://www.dropbox.com/s/bmvat7xcbxxvx4j/D21.FUN-Plane-2023-1675423071.mp4?dl=1
+##http://you.wendiella.sbs/xxx/plane-2023/4/480.m3u8
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="VOD 2023",Ghosted (2023)
 http://you.wendiella.sbs/xxx/ghosted-2023/9/480.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="VOD 2023",65 (2023)
